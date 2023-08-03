@@ -1,0 +1,2 @@
+# .github
+Stanford Chariot Program
