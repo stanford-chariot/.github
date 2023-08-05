@@ -1,3 +1,6 @@
+
+![stanford-childrens-health-logo](https://github.com/stanford-chariot/.github/assets/31296177/390fb11c-a4cf-42b0-be04-516bb7004561)
+
 ## Stanford Chariot Lab
 
 The Stanford Chariot Program is an international leader in research focused on innovative ways to improve the care of children. Our robust clinical programs lay a foundation for our clinical research. We collaborate with numerous clinical divisions and apply an interdisciplinary approach to care and research.
