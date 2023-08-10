@@ -16,6 +16,13 @@ We have numerous clinical and laboratory based projects, here are a few examples
   * Virtual Reality for pediatric rehabilitation in pediatric chronic pain
   * Augmented Reality for Physician Education
 
+## Current Projects
+| Project | Description |
+| --- | --- |
+| Space Pups | Fly through outer space with a personalized spaceship |
+| Pebbles the Penguin | Slide through the snow and gather gems |
+| Motion for Physical Therapy | Get moving through VR experiences |
+
 ## Requirements
  * Unity 2020.31f1 or higher
  * Unity Android, WebGL, and iOS Modules
@@ -27,7 +34,7 @@ We have numerous clinical and laboratory based projects, here are a few examples
  * Android
  * Oculus Quest 2
    
-## Get Started with Development
+## Quick Start
  * Create a [`Meta Developer`](https://developer.oculus.com/) account and request to join the organization `Stanford Chariot` in order to access the apps we are developing
  * Create a [`Figma`](https://www.figma.com/) account and request to join the team [`Stanford Chariot`](https://www.figma.com/team_invite/redeem/XGTbG6aodg6JZMab3Qjedy) to edit, comment, or view design files
 
