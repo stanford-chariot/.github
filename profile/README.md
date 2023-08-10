@@ -19,9 +19,9 @@ We have numerous clinical and laboratory based projects, here are a few examples
 ## Current Projects
 | Project | Description |
 | --- | --- |
-| Space Pups | Fly through outer space with a personalized spaceship |
-| Pebbles the Penguin | Slide through the snow and gather gems |
-| Motion for Physical Therapy | Get moving through VR experiences |
+| [Space Pups](https://github.com/stanford-chariot/space_pups) | Fly through outer space with a personalized spaceship |
+| [Pebbles the Penguin]() | Slide through the snow and gather gems |
+| [Motion for Physical Therapy](https://github.com/stanford-chariot/motion-vr) | Get moving through VR experiences |
 
 ## Requirements
  * Unity 2020.31f1 or higher
@@ -43,3 +43,5 @@ Fork or clone a project repo
 $ git clone https://github.com/stanford-chariot/demo-repository.git
 ```
 
+## Feeback
+Please email us if you have any questions or ideas!
