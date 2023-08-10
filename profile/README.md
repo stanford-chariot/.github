@@ -18,10 +18,18 @@ We have numerous clinical and laboratory based projects, here are a few examples
 
 ## Requirements
  * Unity 2020.31f1 or higher
- * Android, WebGL, and iOS Modules
+ * Unity Android, WebGL, and iOS Modules
+ * XCode 14.4.1 or higher
+ * [Apple Unity Plugins](https://github.com/apple/unityplugins)
+
+## Supported Devices
+ * iOS/iPadOS
+ * Android
+ * Oculus Quest 2
    
 ## Get Started with Development
-Create a [`Meta Developer`](https://developer.oculus.com/) account and request to join the organization `Stanford Chariot` in order to access the apps we are developing
+ * Create a [`Meta Developer`](https://developer.oculus.com/) account and request to join the organization `Stanford Chariot` in order to access the apps we are developing
+ * Create a [`Figma`](https://www.figma.com/) account and request to join the team [`Stanford Chariot`](https://www.figma.com/team_invite/redeem/XGTbG6aodg6JZMab3Qjedy) to edit, comment, or view design files
 
 Fork or clone a project repo
 ```bash
