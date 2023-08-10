@@ -16,3 +16,15 @@ We have numerous clinical and laboratory based projects, here are a few examples
   * Virtual Reality for pediatric rehabilitation in pediatric chronic pain
   * Augmented Reality for Physician Education
 
+## Requirements
+ * Unity 2020.31f1 or higher
+ * Android, WebGL, and iOS Modules
+   
+## Get Started with Development
+Create a [`Meta Developer`](https://developer.oculus.com/) account and request to join the organization `Stanford Chariot` in order to access the apps we are developing
+
+Fork or clone a project repo
+```bash
+$ git clone https://github.com/stanford-chariot/demo-repository.git
+```
+
