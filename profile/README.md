@@ -43,5 +43,5 @@ Fork or clone a project repo
 $ git clone https://github.com/stanford-chariot/demo-repository.git
 ```
 
-## Feeback
+## Feedback
 Please email us if you have any questions or ideas!
