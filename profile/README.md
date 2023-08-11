@@ -23,12 +23,12 @@ We have numerous clinical and laboratory based projects, here are a few examples
 | [Pebbles the Penguin]() | Slide through the snow and gather gems |
 | [Motion for Physical Therapy](https://github.com/stanford-chariot/motion-vr) | Get moving through VR experiences |
 | [Aurora Mindfulness Go]() | Slide through the snow and gather gems |
-| [DreamFlight]() | Slide through the snow and gather gems |
-| [Breathe Peace]() | Slide through the snow and gather gems |
-| [Space Burgers]() | Slide through the snow and gather gems |
-| [Wander]() | Slide through the snow and gather gems |
-| [Asteroid Miner]() | Slide through the snow and gather gems |
-| [MRI Ready Teddy]() | Slide through the snow and gather gems |
+| [DreamFlight]() | ... |
+| [Breathe Peace]() | ... |
+| [Space Burgers]() | ... |
+| [Wander]() | ... |
+| [Asteroid Miner]() | ... |
+| [MRI Ready Teddy]() | ... |
 
 
 ## Requirements
