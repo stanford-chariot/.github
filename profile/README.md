@@ -19,7 +19,7 @@ We have numerous clinical and laboratory based projects, here are a few examples
 ## Current Projects
 | Project | Description |
 | --- | --- |
-| [Space Pups](https://github.com/stanford-chariot/space_pups) | Fly through outer space with a personalized spaceship |
+| [Space Pups]([https://github.com/stanford-chariot/space_pups](https://github.com/stanford-chariot/space-pups)) | Fly through outer space with a personalized spaceship |
 | [Pebbles the Penguin]() | Slide through the snow and gather gems |
 | [Motion for Physical Therapy](https://github.com/stanford-chariot/motion-vr) | Get moving through VR experiences |
 | [Aurora Mindfulness Go]() | Slide through the snow and gather gems |
